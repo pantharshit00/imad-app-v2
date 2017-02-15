@@ -1,0 +1,4 @@
+/node_modules
+/static/reactjs/src
+webpack.config.js
+.babelrc
